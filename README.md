@@ -18,17 +18,16 @@ Tener instalado y configurado lo siguiente:
 
 ### Detalle de branch
 
-#### INITIAL-SPRING-WORKSHOP: 
+#### master:
 En el branch inicial se enfocara en como iniciar un proyecto con spring, ademas se vera todo las dependencias que utilizaremos para dejar configurado nuestro ambiente para empezar a desarrollar el taller. 
 
-#### HELLO-WORLD-SPRING-WORKSHOP:
-Crearemos nuestro primer hola mundo usando spring.
+Tambien crearemos nuestro primer hola mundo usando spring.
 
-#### CRUD-WITH-REPOSITORY-SPRING-WORKSHOP:
+#### crud-with-repository-spring-workshop:
 Realizaremos un crud utilizando directamente el repositorio.
 
-#### CRUD-WITH-SERCVICES-SPRING-WORKSHOP:
+#### crud-with-services-spring-workshop:
 Realizaremos un crud utilizando servicios.
 
-#### COMPLETE-SPRING-WORKSHOP
+#### complete-spring-workshop:
 Taller completo con CRUD de equipos y jugadores.
